@@ -59,5 +59,4 @@ Future Enhancements
 ## Disclaimer
 
 *This project relies on publicly available SEC filings (e.g., Tesla Inc. 2024 10-K) for demonstration purposes. It does not contain any proprietary or confidential banking data.*
-
 ```
